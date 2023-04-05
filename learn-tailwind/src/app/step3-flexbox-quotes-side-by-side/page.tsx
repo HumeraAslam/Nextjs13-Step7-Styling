@@ -12,7 +12,7 @@ export default function Quotes() {
         <span>- Robin Sharma</span>
       </div>
       <div className="quote">
-        <p>“You don't have to be great at something to start, but you have to start to be great at something.”</p>
+        <p>“You dont have to be great at something to start, but you have to start to be great at something.”</p>
         <span>- Zig Ziglar</span>
       </div>
     </div>
